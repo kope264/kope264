@@ -1,60 +1,93 @@
-<h1 align="center">Hi 👋, I'm Sushant Kope</h1>
-<h3 align="center">Electronics & IoT Enthusiast | MERN Stack Developer | Java Learner | Tinkerer</h3>
+# 👋 Hello World! I'm Sushant Kope
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Electronics+%26+IoT+Innovator;Java+%7C+React+%7C+Node+JS+%7C+MongoDB;Always+learning+something+new+🚀" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Decentralized+Systems+Builder;Open+Source+Contributor" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+
+Computer Science Engineering student at SVERI's College of Engineering, Pandharpur. I'm passionate about building web applications and exploring decentralized technologies. When I'm not coding, you'll find me leading on the football field or organizing coding competitions!
+
+<div align="center">
+  <a href="mailto:kopesushant@gmail.com"><img src="https://img.shields.io/badge/Email-kopesushant%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/sushant-kope"><img src="https://img.shields.io/badge/GitHub-sushant--kope-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sushant-kope"><img src="https://img.shields.io/badge/LinkedIn-sushant--kope-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
+
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
+</div>
+
+## 🏆 Projects
+
+### 🔐 Decentralized Cloud Storage System
+A secure cloud storage application built with:
+- **Frontend**: React.js
+- **Backend**: Node.js & Express.js
+- **Database**: MongoDB
+- **Storage**: IPFS (InterPlanetary File System)
+
+### 📝 Employee Task Manager
+A role-based task management system with:
+- React.js and Context API for state management
+- Tailwind CSS for a responsive UI
+- LocalStorage for authentication
+- Deployed on Vercel
+
+### 🌍 JourneyMate Travel Website
+A responsive travel platform featuring:
+- Real-time weather updates
+- Safety checks and destination exploration
+- MySQL-based user authentication and data storage
+
+### 📱 QR Code Generator
+A real-time QR code generation tool:
+- Built with Node.js and Express.js
+- Integrates qr-image for dynamic QR code creation
+- File system (fs) for data handling
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushant-kope&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushant-kope&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🌱 What I'm Currently Learning
+
+- Advanced React patterns and performance optimization
+- Blockchain development and smart contracts
+- Docker and containerization
+
+## 🏅 Achievements
+
+- Finalist in HackEra 36-Hour Hackathon at SGU, Kolhapur
+- Led the College football team in university-level tournaments
+- Organized and managed Coding Competition during OLYMPUS 2024
+
+## 📫 Connect With Me
+
+Feel free to reach out for collaborations or just a chat!
+- 📧 Email: kopesushant@gmail.com
+- 📱 Phone: 8265035952
+- 🏙️ Location: Solapur, Maharashtra, India - 413322
 
 ---
 
-### 🚀 About Me
-- 🎓 I'm currently pursuing **Electronics & Telecommunication Engineering**
-- 🔭 Working on **IoT-based projects** using ESP8266 and **real-time web apps**
-- 🌱 Currently diving deeper into **Java**, **DSA**, and **Blockchain-based applications**
-- 👨‍💻 Most of my projects are hosted right here on GitHub
-- ⚡ Fun fact: I enjoy building things that **connect the physical world to the web**
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Programming & Development
-- Languages: `Java`, `JavaScript`, `C++`
-- Frontend: `HTML`, `CSS`, `React`, `Tailwind`, `Bootstrap`
-- Backend: `Node.js`, `Express.js`, `MongoDB`, `MySQL`
-- Tools: `Git`, `GitHub`, `VS Code`, `Postman`
-
-#### 📡 IoT & Hardware
-- Boards: `ESP8266`, `Arduino Uno`, `NodeMCU`
-- Platforms: `Arduino IDE`, `Telegram Bot`, `IFTTT`, `IPFS`, `Truffle`
-
----
-
-### 🧠 Highlight Project
-
-#### 🔔 ESP8266-Based Visitor Alert System
-- Built a smart door notification system using **ESP8266 + Telegram Bot**
-- Detects doorbell press and instantly **sends a message to the user**
-- Helps **parents with kids at home**, **shops**, and even **crime prevention**
-- View full guide & code [👉 here](https://github.com/your-username/Visitor-Alert-System)
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react" height="180" />
-</p>
-
----
-
-### 🤝 Let's Connect
-<p>
-  <a href="mailto:sushant.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to check out my repositories and leave a ⭐ on ones you like.*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sushant-kope&color=blue" alt="Profile Views" />
+</div>
