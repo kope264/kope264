@@ -74,21 +74,18 @@ A real-time QR code generation tool:
 ## 🌱 What I'm Currently Learning
 
 - Advanced React patterns and performance optimization
-- Blockchain development and smart contracts
-- Docker and containerization
+- DATA STRUCTURES AND ALGORITHMS (JAVA)
 
 ## 🏅 Achievements
 
 - Finalist in HackEra 36-Hour Hackathon at SGU, Kolhapur
 - Led the College football team in university-level tournaments
-- Organized and managed Coding Competition during OLYMPUS 2024
+- Organized and managed Coding Competition during OLYMPUS 2024 at SVERI's College of Engineering, pandharpur.
 
 ## 📫 Connect With Me
 
 Feel free to reach out for collaborations or just a chat!
 - 📧 Email: kopesushant@gmail.com
-- 📱 Phone: 8265035952
-- 🏙️ Location: Solapur, Maharashtra, India - 413322
 
 ---
 
