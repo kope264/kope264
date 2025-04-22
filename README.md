@@ -11,7 +11,10 @@ Computer Science Engineering student at SVERI's College of Engineering, Pandharp
 <div align="center">
   <a href="mailto:kopesushant@gmail.com"><img src="https://img.shields.io/badge/Email-kopesushant%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/sushant-kope"><img src="https://img.shields.io/badge/GitHub-sushant--kope-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/sushant-kope"><img src="https://img.shields.io/badge/LinkedIn-sushant--kope-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[https://www.linkedin.com/in/sushant-kope](https://www.linkedin.com/in/sushant-kope-a4a88a289/)"><img src="https://img.shields.io/badge/LinkedIn-sushant--kope-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/sushant_0011/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </div>
 
 ## 💻 Tech Stack
